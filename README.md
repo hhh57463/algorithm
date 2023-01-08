@@ -5,6 +5,9 @@
 한 문제당 최대 한시간 동안은 고민해보고 모르겠으면 검색
 
 ### 2023-01-07 : 3문제
-[10814나이순 정렬](https://www.acmicpc.net/problem/11050)<br>
+[10814 나이순 정렬](https://www.acmicpc.net/problem/11050)<br>
 [11866 요세푸스 문제0](https://www.acmicpc.net/problem/11050)<br>
 [11050 이항계수](https://www.acmicpc.net/problem/11050)<br>
+
+### 2023-01-08 : 1문제
+[2775 부녀회장이 될테야](https://www.acmicpc.net/problem/2775)<br>
