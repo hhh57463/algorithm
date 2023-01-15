@@ -16,3 +16,6 @@
 
 ### 2023-01-12 : 1문제
 [10250 ACM호텔](https://www.acmicpc.net/problem/10250)<br>
+
+### 2023-01-15 : 1문제
+[7568 덩치](https://www.acmicpc.net/problem/7568)<br>
