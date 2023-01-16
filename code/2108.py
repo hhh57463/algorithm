@@ -21,7 +21,7 @@ if len(result[2]) > 1:
         result[2]=result[2][0][0]
 else:
     result[2]=result[2][0][0]
-result[3]=L[int(len(L)-1)]-L[0]
+result[3]=L[-1]-L[0]
 
 print(result[0])
 print(result[1])

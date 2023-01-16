@@ -7,7 +7,7 @@ result=0
 for _ in range(K):
     N=int(sys.stdin.readline())
     if N==0:
-        S.pop(len(S)-1)
+        S.pop(-1)
     else:
         S.append(N)
 

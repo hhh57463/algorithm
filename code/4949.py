@@ -13,7 +13,7 @@ while True:
             S.append(i)
         if i == ')':
             if len(S) > 0:
-                if S.pop(len(S)-1) != '(':
+                if S.pop(-1) != '(':
                     result=False
                     break
             else:
@@ -21,7 +21,7 @@ while True:
                 break
         elif i == ']':
             if len(S) > 0:
-                if S.pop(len(S)-1) != '[':
+                if S.pop(-1) != '[':
                     result=False
                     break
             else:
