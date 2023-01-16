@@ -20,7 +20,9 @@
 ### 2023-01-15 : 1문제
 [7568 덩치](https://www.acmicpc.net/problem/7568)<br>
 
-### 2023-01-16 : 3문제 
+### 2023-01-16 : 5문제 
 [2164 카드2](https://www.acmicpc.net/problem/2164)<br>
 [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)<br>
 [10773 제로](https://www.acmicpc.net/problem/10773)<br>
+[1436 영화감독 숌](https://www.acmicpc.net/problem/1436)<br>
+[2108 통계학](https://www.acmicpc.net/problem/2108)<br>
