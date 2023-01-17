@@ -26,3 +26,6 @@
 [10773 제로](https://www.acmicpc.net/problem/10773)<br>
 [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)<br>
 [2108 통계학](https://www.acmicpc.net/problem/2108)<br>
+
+### 2023-01-17 : 1문제
+[1966 프린터 큐](https://www.acmicpc.net/problem/1966)<br>
