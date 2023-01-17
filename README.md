@@ -29,3 +29,7 @@
 
 ### 2023-01-17 : 1문제
 [1966 프린터 큐](https://www.acmicpc.net/problem/1966)<br>
+
+### 2023-01-18 : 2문제
+[1874 스택 수열](https://www.acmicpc.net/problem/1874)<br>
+[1654 랜선 자르기](https://www.acmicpc.net/problem/1654)<br>
