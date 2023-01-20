@@ -36,3 +36,6 @@
 
 ### 2023-01-19 : 1문제
 [2805 나무 자르기](https://www.acmicpc.net/problem/2805)<br>
+
+### 2023-01-21 : 1문제
+[18258 큐 2](https://www.acmicpc.net/problem/18258)<br>
