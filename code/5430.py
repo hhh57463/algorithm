@@ -4,6 +4,7 @@
 # 생각해보니 reverse도 비용이 비싸다고 들었던것 같아서 R의 갯수를 생객했음
 # 새벽이라 그런지 머리가 잘돌아갔던것 같음
 # join()부분은 검색해서 했음
+
 import sys
 from collections import deque
 
