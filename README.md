@@ -39,3 +39,6 @@
 
 ### 2023-01-21 : 1문제
 [18258 큐 2](https://www.acmicpc.net/problem/18258)<br>
+
+### 2023-01-22 : 1문제
+[5430 AC](https://www.acmicpc.net/problem/5430)<br>
