@@ -43,5 +43,8 @@
 ### 2023-01-22 : 1문제
 [5430 AC](https://www.acmicpc.net/problem/5430)<br>
 
+### 2023-02-05 : 1문제
+[24479 N과 M(1)](https://www.acmicpc.net/problem/15649)<br>
+
 ### 도전 중 :
 [2981 검문](https://www.acmicpc.net/problem/2981)<br>
