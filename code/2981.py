@@ -1,27 +1,23 @@
-# 시간초과 뜸 대전 가면 이거먼저 풀어보기로 하자
-import sys
+# 오랜만에 풀어봤는데 도저히 모르겠어서 검색했음
+# 수학을 좀 알아야 할 듯함
+import math
 
-N=int(sys.stdin.readline().rstrip())
-M=[int(sys.stdin.readline()) for _ in range(N)]
-
-cnt=2
-end=max(M)
-result=[]
-
-while cnt <= end:
-    l=[]
-    flag=True
-    for i in range(N):
-        if i == 0:
-            l.append(M[i]%cnt)
-        else:
-            if M[i] % cnt not in l:
-                flag=False
-                break
-
-    if flag:
-        result.append(cnt)
-    cnt+=1
-
-for i in result:
-    print(i, end=' ')
+t = int(input())
+s = []
+a = []
+gcd = 0
+for i in range(t):
+    s.append(int(input()))
+    if i == 1:
+        gcd = abs(s[1] - s[0])
+    gcd = math.gcd(abs(s[i] - s[i - 1]), gcd)
+gcd_a = int(gcd ** 0.5)
+for i in range(2, gcd_a + 1):
+    if gcd % i == 0:
+        a.append(i)
+        a.append(gcd // i)
+a.append(gcd)
+a = list(set(a))
+a.sort()
+for i in a:
+    print(i, end = ' ')
