@@ -48,3 +48,6 @@
 
 ### 2023-02-11 : 1문제
 [2981 검문](https://www.acmicpc.net/problem/2981)<br>
+
+### 2023-02-24 : 1문제
+[18111 마인크래프트](https://www.acmicpc.net/problem/18111)<br>
