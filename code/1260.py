@@ -1,3 +1,4 @@
+# https://ji-gwang.tistory.com/291 참고...
 import sys
 from collections import deque
 
