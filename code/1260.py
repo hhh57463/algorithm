@@ -7,7 +7,7 @@ N, M, V = map(int, sys.stdin.readline().rstrip().split())
 graph = [[False] * (N + 1) for _ in range(N + 1)]
 
 for _ in range(M):
-    a, b = map(int, input().split())
+    a, b = map(int, sys.stdin.readline().rstrip().split())
     graph[a][b] = True
     graph[b][a] = True
 
