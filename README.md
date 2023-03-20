@@ -44,10 +44,14 @@
 [5430 AC](https://www.acmicpc.net/problem/5430)<br>
 
 ### 2023-02-05 : 1문제
-[24479 N과 M(1)](https://www.acmicpc.net/problem/15649)<br>
+[15649 N과 M(1)](https://www.acmicpc.net/problem/15649)<br>
 
 ### 2023-02-11 : 1문제
 [2981 검문](https://www.acmicpc.net/problem/2981)<br>
 
 ### 2023-02-24 : 1문제
 [18111 마인크래프트](https://www.acmicpc.net/problem/18111)<br>
+
+### 2023-03-20 : 2문제
+[11382 꼬마 정민](https://www.acmicpc.net/problem/11382)<br>
+[1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)<br>
