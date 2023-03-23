@@ -55,3 +55,6 @@
 ### 2023-03-20 : 2문제
 [11382 꼬마 정민](https://www.acmicpc.net/problem/11382)<br>
 [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)<br>
+
+### 2023-03-23: 1문제
+[2178 미로 탐색](https://www.acmicpc.net/problem/2178)<br>
